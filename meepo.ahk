@@ -1,3 +1,4 @@
+#IfWinActive, Dota 2
 q::
 loop, 5 {
     send {f}
